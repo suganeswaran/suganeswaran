@@ -14,22 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17491
-Fork on GitHub
-5085
 
-back to edit
 
-copy-markdown
 
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Suganeswaran N</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 

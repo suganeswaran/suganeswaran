@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React JS, HTMl ,CSS**
+- 💬 Ask me about **ReactJS, HTMl ,CSS**
 
 - 📫 How to reach me **nsuganeswaran@gmail.com**
 
